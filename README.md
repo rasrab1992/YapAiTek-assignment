@@ -7,6 +7,7 @@
 # Table of Contents:
 * Installation
 * Usage
+* Figures
 
 
 
@@ -20,7 +21,7 @@ pip install python-bidi
 ```
 pip install hazm
 ```
-###### For tokenizing persian texts install:
+###### For reading persian stopwords docx file install:
 ```
 pip install python-docx
 ```
