@@ -1,13 +1,7 @@
-## YapAiTek-assignment
 
-
-
-
-
-# Table of Contents:
+## Table of Contents:
 * Installation
 * Usage
-* Figures
 
 
 
