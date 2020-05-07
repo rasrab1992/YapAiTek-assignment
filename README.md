@@ -4,7 +4,7 @@
 
 
 
-# Table of Contents
+# Table of Contents:
 	Installation
 	Usage
 	Documentation
@@ -12,7 +12,7 @@
 	License
 
 
-# Install necessary dependencies
-	 for displaying persian text install:
-		!pip install arabic-reshaper
-		!pip install python-bidi
+# Install necessary dependencies:
+for displaying persian text install:
+	!pip install arabic-reshaper
+	!pip install python-bidi
