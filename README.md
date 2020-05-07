@@ -13,6 +13,18 @@
 
 
 # Install necessary dependencies:
-for displaying persian text install:
-	!pip install arabic-reshaper
-	!pip install python-bidi
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
+
+
+
+#for displaying persian text install:
+'''
+ !pip install arabic-reshaper
+ !pip install python-bidi
+'''
