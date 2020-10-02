@@ -49,4 +49,5 @@ pltfig = PlotFig(all_sorted = sahms, num_plot= num_plot)
 - pltfig.plot_barh()
 - pltfig.plot_pie()
 - pltfig.plot_pie_barh()
+- pltfig.plot_pie_barh()
 ```
